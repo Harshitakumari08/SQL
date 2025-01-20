@@ -7,3 +7,4 @@ CREATE TABLE employee
     Employee_Name   TEXT, /* TEXT Data type assigned to the variable */
     Department  TEXT /* TEXT Data type assigned to the variable */
 );
+
