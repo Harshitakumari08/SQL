@@ -8,15 +8,15 @@ This repository contains various SQL scripts that demonstrate common database op
 
 ## *🌟Features*
 
--**Database Schema Creation**: Scripts to create tables and define relationships between them.
+-**Database Schema Creation**:  Scripts to create tables and define relationships between them.
 
--**Data Manipulation**: Examples of inserting, updating, and deleting records.
+-**Data Manipulation**:  Examples of inserting, updating, and deleting records.
 
--**Query Examples**: Complex queries, including joins, subqueries, and aggregations.
+-**Query Examples**:  Complex queries, including joins, subqueries, and aggregations.
 
--**Optimization Techniques**: Best practices for indexing and query optimization.
+-**Optimization Techniques**:  Best practices for indexing and query optimization.
 
--**Stored Procedures and Functions**: Examples of reusable database logic.
+-**Stored Procedures and Functions**:  Examples of reusable database logic.
 
 
 
