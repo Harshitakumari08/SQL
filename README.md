@@ -2,7 +2,7 @@
 
 Welcome to my SQL repository! This repository is a collection of SQL scripts, queries, and database management examples that I've created to showcase my skills and projects in database development and management.
 
-🔗 ## Introduction
+## *🔗 Introduction*
 
 This repository contains various SQL scripts that demonstrate common database operations, schema creation, data manipulation, and advanced query techniques. Whether you're a beginner looking to learn SQL or an experienced developer looking to improve your database skills, you'll find valuable resources here.
 
@@ -22,19 +22,19 @@ This repository contains various SQL scripts that demonstrate common database op
 
 ## *🔧Installation*
 
--**1**.Clone the repository to your local machine:
+**1**.Clone the repository to your local machine:
      ```
      git clone https://github.com/yourusername/sql-repo.git
      ```
--**2**.Navigate to the project directory:
+**2**.Navigate to the project directory:
      ```
      cd sql-repo
      ```
 ## *📝 Usage*
 
--**1**.Import the SQL scripts into your database management system (DBMS).
--**2**.Execute the scripts to create and manipulate databases.
--**3**.Modify the scripts as needed for your projects.
+**1**.Import the SQL scripts into your database management system (DBMS).
+**2**.Execute the scripts to create and manipulate databases.
+**3**.Modify the scripts as needed for your projects.
 -**Note**: Make sure you have the appropriate DBMS (e.g., MySQL, PostgreSQL, SQLite) installed and configured on your system.
 
 ## *🔄 Project Structure*
