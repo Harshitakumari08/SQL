@@ -56,6 +56,10 @@ This repository contains various SQL scripts that demonstrate common database op
 - scripts/: Contains individual SQL scripts.
 - examples/: Contains example projects with complete database setups.
 
+## *🤝 Contributing*
+
+We love contributions! 💖 If you have suggestions for new features, or bug fixes, feel free to fork this repository, make your changes, and submit a pull request. 🙌
+
 
 
 Thank you for visiting my SQL repository! 😊 If you find this repository helpful, please give it a star ⭐ and follow me on GitHub for more projects.
