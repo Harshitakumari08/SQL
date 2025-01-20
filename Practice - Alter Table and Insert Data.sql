@@ -8,3 +8,12 @@ VALUES(1,'John Smith', 25, 'Main st','john@ex.com'),
 (2,'Sarah Johnson',30,'Broadway','sarah@ex.com');
 
 select * from customer;
+/*
+output
+┌────┬───────────────┬─────┬──────────┬──────────────┐
+│ Id │     Name      │ Age │ Address  │    email     │
+├────┼───────────────┼─────┼──────────┼──────────────┤
+│ 1  │ John Smith    │ 25  │ Main st  │ john@ex.com  │
+│ 2  │ Sarah Johnson │ 30  │ Broadway │ sarah@ex.com │
+└────┴───────────────┴─────┴──────────┴──────────────┘
+*/
