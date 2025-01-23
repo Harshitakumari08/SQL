@@ -3,6 +3,7 @@ ALTER TABLE employee
 ADD COLUMN Designation TEXT default NULL;
 
 select * from employee;
+
 /* ouput:-
 ┌─────────────┬────────────────┬────────────┬─────────────┐
 │ Employee_id │ Employee_Name  │ Department │ Designation │
